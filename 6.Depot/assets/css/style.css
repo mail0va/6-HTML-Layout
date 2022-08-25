@@ -67,8 +67,7 @@ a {
 /* PRODUCTS */
 
 #Product .product {
-    display: flex;
-    justify-content: space-between;
+   
     padding: 6rem;
 }
 
@@ -96,7 +95,7 @@ a {
 
 #Product .product .product-a-links .rigth-title {
     width: 40%;
-    text-align: end;
+    text-align: right;
 }
 
 
